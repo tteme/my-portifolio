@@ -21,10 +21,10 @@ const greeting = {
   username: "Temesgen Nega",
   title: "Hi all, I'm Temesgen",
   subTitle: emoji(
-    "A Passionate Full Stack Web Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
+    "I'm a Full Stack Software Engineer based in Addis Ababa, Ethiopia, with experience developing enterprise applications and modern web solutions. I've worked on ERP systems, business websites, and healthcare management software while continuously expanding my expertise in backend development, REST APIs, and scalable architectures. I enjoy learning new technologies and building software that makes people's lives easier.",
   ),
   resumeLink: "/resume.pdf", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
